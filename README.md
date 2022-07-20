@@ -1,1 +1,1 @@
-https://okito15.github.io/Weather_Project
+https://okan-seid.github.io/Weather_Project
